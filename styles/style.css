@@ -36,11 +36,11 @@
 }
 
 .header_logo {
-  position: relative;
+  position: absolute;
   width: 148px;
   height: 105px;
   left: calc(50% - 148px / 2 + 2px);
-  top: 9px;
+  top: 92px;
 }
 
 .address {
@@ -177,7 +177,6 @@
 
 .card_lots {
   max-width: 334px;
-  min-height: 563px;
   flex-grow: 1;
 }
 
