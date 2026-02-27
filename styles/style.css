@@ -36,7 +36,7 @@
 }
 
 .header_logo {
-  position: absolute;
+  display: flex;
   width: 148px;
   height: 105px;
   left: calc(50% - 148px / 2 + 2px);
@@ -94,7 +94,6 @@
   line-height: 115%;
   text-align: center;
   word-spacing: 5px;
-  font-family: Raleway;
   text-transform: uppercase;
   font-weight: bold;
 }
